@@ -12,17 +12,17 @@ Implementation of ARIMA model using python.
 Explore the dataset
 ### STEP 2: 
 Check for stationarity of time series 
-        ** time series plot **
-        * ACF plot and PACF plot
-        * ADF test#
-        * Transform to stationary: differencing
+         </br>* time series plot
+        </br>* ACF plot and PACF plot
+        </br>* ADF test#
+        </br>* Transform to stationary: differencing
 ### STEP 3: 
 Determine ARIMA models parameters p, q
 ### STEP 4: 
 Fit the ARIMA model
 ### STEP 5: 
 Make time series predictions
-    * Auto-fit the ARIMA model
+    </br>* Auto-fit the ARIMA model
 ### STEP 6: 
 Evaluate model predictions
 
