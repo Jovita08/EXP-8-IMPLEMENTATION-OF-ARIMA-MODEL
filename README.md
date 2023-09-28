@@ -12,7 +12,7 @@ Implementation of ARIMA model using python.
 Explore the dataset
 ### STEP 2: 
 Check for stationarity of time series 
-        * time series plot
+        ** time series plot **
         * ACF plot and PACF plot
         * ADF test#
         * Transform to stationary: differencing
